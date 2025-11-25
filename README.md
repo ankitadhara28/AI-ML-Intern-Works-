@@ -6,7 +6,7 @@ Text classification system to identify spam emails using NLP and machine learnin
 Tech Stack: Python, Scikit-learn, NLTK, Pandas
 Dataset: SMS Spam Collection (UCI)
 Models: Naive Bayes, Logistic Regression
-Results: 98% accuracy, 97% F1-score
+Results: Naive Bayes Accuracy: 0.968609865470852
 Key Features:
 
 Text preprocessing (tokenization, stopword removal)
@@ -18,7 +18,7 @@ Regression model predicting residential property prices based on features like s
 Tech Stack: Python, Scikit-learn, Pandas, Matplotlib
 Dataset: Boston Housing Dataset
 Models: Linear Regression, Ridge, Lasso
-Results: R² = 0.86, RMSE = $4,680
+Results: MSE = 0.5559 , R² = 0.5758
 Key Features:
 
 Exploratory data analysis
